@@ -4,9 +4,9 @@ Welcome to my Wordle game! This is a replica of the popular word-guessing game w
 
 ## Features:
 
-- User-friendly interface for guessing words
-- Feedback for each guess indicating correct letters and their positions
-- Random selection of five-letter words from a predefined list
+- User-friendly display for guessing words
+- Indicates correct letters and their positions
+- Random selection of five-letter words from a predefined library
 - Tracks remaining attempts
 
 ## Getting Started:
