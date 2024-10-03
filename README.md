@@ -11,11 +11,9 @@ Welcome to my Wordle game! This is a replica of the popular word-guessing game w
 
 ## Getting Started:
 
-### Prerequisites:
-
-Make sure you have Python 3.x installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-
 ### Setup Instructions:
+
+(Make sure you have the latest version of Python installed on your machine)
 
 1. Clone the Repository:
 
