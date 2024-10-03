@@ -11,13 +11,20 @@ Welcome to my Wordle game! This is a replica of the popular word-guessing game w
 
 ## Getting Started:
 
-### Setup Instructions:
+### Set Up a Virtual Environment:
 
 (Make sure you have the latest version of Python installed on your machine)
 
-1. Clone the Repository:
+Create a virtual environment using the following command:
 
-Open your terminal and run the following command:
+- python3 -m venv venv
 
-   ```bash
-   git clone https://github.com/tmestery/Nimgrab-Game.git
+Activate the virtual environment:
+
+For macOS/Linux:
+
+- source venv/bin/activate
+
+For Windows:
+
+- venv\Scripts\activate
