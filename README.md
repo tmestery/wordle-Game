@@ -1,6 +1,6 @@
 ## Wordle Game:
 
-Welcome to my Wordle game! This is a complete implementation of the popular word-guessing game where players have six attempts to guess a five-letter word. 
+Welcome to my Wordle game! This is a replica of the popular word-guessing game where a player attempts to guess a 5-letter word in 6 guesses.
 
 ## Features:
 
