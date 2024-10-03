@@ -17,7 +17,7 @@ def instructions():
 \n  Instructions:
     -Guess the random word.
     -Do so by entering a 5 letter word.
-    -You have 5 attempts to guess it correctly.
+    -You have 6 attempts to guess it correctly.
     -When you guess a correct letter it will add it to the place it falls in the word.
     -Try and beat your record, by getting it in fewer attempts.
     """)
@@ -30,8 +30,8 @@ def randomWord():
     word = random_word
 
 def gameStart():
-    # Starting with 5 lives
-    lives = 5
+    # Starting with 6 lives
+    lives = 6
 
     #Gets a random word from the Library ()
     five_letter_words = [word.lower() for word in words.words() if len(word) == 5]
