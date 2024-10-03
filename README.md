@@ -28,3 +28,7 @@ For macOS/Linux:
 For Windows:
 
 - venv\Scripts\activate
+
+Install Required Package in Virtual Enviorment:
+
+- pip install nltk
